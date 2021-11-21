@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @TrashLobster
-- 👀 I’m interested in data science and development
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TrashLobster/TrashLobster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @TrashLobster, a.k.a. Vincent
+- I’m interested in learning more about programming and have a background in financial advisory services. 
+- I’m currently learning python, java and react.
